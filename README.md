@@ -26,3 +26,7 @@ We have noticed that the ages given in the `people.json` file is incorrect, each
 * You can either store the JSON file locally or pull it from the repository, it's up to you.
 * Don't worry about outputting the data back out, we want to see how you edit we want to see how you modify this data.
 * We're not fussy about which version of PHP you use, as long as it's currently supported and stable.
+
+
+## That's all folks.
+Please send your completed code back to us where we will review it internally and with yourself.
