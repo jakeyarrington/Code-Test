@@ -12,7 +12,6 @@ We need to pull the information from the JSON file into a HTML page and list out
 
 ### Notes
 * We want to see how you pull this data into the page so please don't simply list out each person details as hard-coded HTML.
-* Feel free to bring the project code with you or host it on a code-collaboration tool such CodePen or JSBin.
 * The styling doesn't have to be exactly but we need to see that you can use CSS. Feel free to use a compiler such as Sass if you're more comfortable with it.
 
 ## Step 2. Modify Users (Backend)
@@ -27,6 +26,16 @@ We have noticed that the ages given in the `people.json` file is incorrect, each
 * Don't worry about outputting the data back out, we want to see how you edit we want to see how you modify this data.
 * We're not fussy about which version of PHP you use, as long as it's currently supported and stable.
 
+## Step 3. WordPress Shortcode
+Now that we have made the changes to the age, we then need to put this data into a WordPress shortcode to be displayed on the front-end of a WordPress website. Using what you have already created from Step 2 let's echo the peoples information. For this task you will need to:
+
+* Create a WordPress shortcode which can be called on a page
+* Make use of the code you created from Step 2 to echo out each persons details as a list just as you did in Step 1.
+
+### Notes
+* Make sure that you structure the list the same as you did in Step 1. so that the CSS will still work using the shortcode.
+* Include your stylesheet using standard WordPress style enqueuing function. 
+* Please include the shortcode functionality rather than a whole WordPress installation when sending your files back.
 
 ## That's all folks.
 Please send your completed code back to us where we will review it internally and with yourself.
