@@ -41,6 +41,6 @@ Now that we have made the changes to the age, we then need to use this data in a
 Please commit your code to a GIT provider of your choosing (we use Github and Bitbucket). Once committed please send us a valid public URL to access your repository.
 
 ### Notes
-* Please make your filenames easy to read and understandable.
+* Please make your filenames easy to understand.
 * If your code has dependencies such as Composer please include the config file only.
 * Please bear in mind good practices that you would expect when handing over code within a team.
